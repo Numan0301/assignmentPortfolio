@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Rubik+Burned&display=swap');
+ h1{   font-family: 'Poppins', sans-serif;
+    font-family: 'Rubik Burned', system-ui;
+    font-size:xx-large;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+h2{
+    text-transform: uppercase;
+    text-decoration: solid;
+    text-align:start;
+    font-size: 6cqb;
+    text-align: center;
+   text-shadow:h-shadow v-shadow;
+}
+.name p2{
+font-size: 5cqb;
+color: black;
+
+}
+.name p1{
+    font-size: 3cqb;
+    color: rgb(145, 97, 9);
+    block-size: 2cqb;
+    
+}
+span{
+    color: orange;
+ 
+}
+h3,h4,h5{
+    font-size: 4cqb;
+}
+.name ul li,.extra li,.contact li{
+    font-size:3cqb ;
+}
+.name ul li b{
+    color: rgb(152, 94, 207);
+   
+}
+
+.name p3{
+    color: rgb(17, 91, 90);
+    
+
+}
+.extra p5{
+    color:rgb(28, 68, 141);
+}
+.extra li b,.contact ul li b{
+    color: rgb(152, 94, 207);
+}
+.extra p4 ,.contact p6{
+    color: rgb(17, 91, 90);
+}
+.image{
+    box-sizing: content-box;
+}
